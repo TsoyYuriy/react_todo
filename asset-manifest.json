@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TsoyYuriy/react_todo/static/css/main.72041c75.css",
+    "main.js": "/TsoyYuriy/react_todo/static/js/main.9985ed9f.js",
+    "static/js/787.f99c86d6.chunk.js": "/TsoyYuriy/react_todo/static/js/787.f99c86d6.chunk.js",
+    "index.html": "/TsoyYuriy/react_todo/index.html",
+    "main.72041c75.css.map": "/TsoyYuriy/react_todo/static/css/main.72041c75.css.map",
+    "main.9985ed9f.js.map": "/TsoyYuriy/react_todo/static/js/main.9985ed9f.js.map",
+    "787.f99c86d6.chunk.js.map": "/TsoyYuriy/react_todo/static/js/787.f99c86d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72041c75.css",
+    "static/js/main.9985ed9f.js"
+  ]
+}
